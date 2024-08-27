@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(243, 242, 241);
+    background-color: rgb(253, 235, 216);
     }
     main{
         width: 940px;
@@ -35,7 +35,7 @@ body{
     cursor: pointer;
     }
     .enviar:hover{
-    background: rgb(36, 245, 64);
+    background: rgb(255, 63, 143);
     transform: scale(1.2);
     }
     footer{
