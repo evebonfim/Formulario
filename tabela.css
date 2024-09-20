@@ -19,3 +19,8 @@ tr:nth-child(even) td {
 table, th, td {
     border: 1px solid #727272;
 }
+h1{
+        font-family: "Permanent Marker", cursive;
+        font-weight: 400;
+        font-style: normal;
+}
